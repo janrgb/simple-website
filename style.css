@@ -32,3 +32,8 @@ h3
     font-size: 1.2rem;
     text-transform: uppercase;
 }
+
+.topnav .search-container
+{
+    float: right;
+}
